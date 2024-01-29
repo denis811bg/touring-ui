@@ -1,9 +1,8 @@
-import { Component, OnInit, ViewChild } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { IncludedType } from "./const/included-type";
 import { PlacesService } from "./services/places.service";
 import { Place } from "./dto/place";
 import { environment } from "../environments/environment";
-import { GoogleMap, MapInfoWindow } from "@angular/google-maps";
 
 @Component({
   selector: 'app-root',
@@ -13,8 +12,6 @@ import { GoogleMap, MapInfoWindow } from "@angular/google-maps";
 export class AppComponent implements OnInit {
   public title = 'touring-ui';
 
-  @ViewChild(GoogleMap, {static: false}) map!: GoogleMap;
-  @ViewChild(MapInfoWindow, {static: false}) info!: MapInfoWindow;
   public gmSettings = environment.googleMap;
   public gmCenter: google.maps.LatLngLiteral = {
     lat: this.gmSettings.defaultLatitude,
@@ -25,8 +22,6 @@ export class AppComponent implements OnInit {
   public selectedTypes: Set<string> = new Set<string>();
   public filteredPlaces: Place[] = [];
   public radius: number = this.gmSettings.radius;
-
-  public markerPositions: google.maps.LatLngLiteral[] = [];
 
   constructor(private readonly placesService: PlacesService) {
   }

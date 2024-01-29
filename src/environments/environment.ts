@@ -2,7 +2,7 @@ export const environment = {
   production: false,
   internalApiUrl: 'http://localhost:5000',
   googleMap: {
-    isCurrentLocation: true,
+    isCurrentLocation: false,
     height: "500px",
     width: "100%",
     zoom: 12,
