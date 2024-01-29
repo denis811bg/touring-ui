@@ -1,10 +1,83 @@
-import { Component } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { IncludedType } from "./const/included-type";
+import { PlacesService } from "./services/places.service";
+import { Place } from "./dto/place";
+import { environment } from "../environments/environment";
+import { GoogleMap, MapInfoWindow } from "@angular/google-maps";
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
-  title = 'touring-ui';
+export class AppComponent implements OnInit {
+  public title = 'touring-ui';
+
+  @ViewChild(GoogleMap, {static: false}) map!: GoogleMap;
+  @ViewChild(MapInfoWindow, {static: false}) info!: MapInfoWindow;
+  public gmSettings = environment.googleMap;
+  public gmCenter: google.maps.LatLngLiteral = {
+    lat: this.gmSettings.defaultLatitude,
+    lng: this.gmSettings.defaultLongitude
+  };
+
+  public types: IncludedType[] = Object.values(IncludedType) as IncludedType[];
+  public selectedTypes: Set<string> = new Set<string>();
+  public filteredPlaces: Place[] = [];
+  public radius: number = this.gmSettings.radius;
+
+  public markerPositions: google.maps.LatLngLiteral[] = [];
+
+  constructor(private readonly placesService: PlacesService) {
+  }
+
+  public ngOnInit(): void {
+    this.googleMapInitializer();
+  }
+
+  public toggleType(type: IncludedType): void {
+    if (this.selectedTypes.has(type.valueOf())) {
+      this.selectedTypes.delete(type.valueOf());
+    } else {
+      this.selectedTypes.add(type.valueOf());
+    }
+  }
+
+  public isSelected(type: IncludedType): boolean {
+    return this.selectedTypes.has(type.valueOf());
+  }
+
+  public filter(): void {
+    const filterRequestData: FilterRequestData = {
+      includedTypes: Array.from(this.selectedTypes),
+      latitude: this.gmCenter.lat,
+      longitude: this.gmCenter.lng,
+      radius: this.radius
+    };
+
+    this.placesService.getAllPlacesNearby(filterRequestData).subscribe((places: Place[]) => {
+      if (places && places.length > 0) {
+        console.log(places);
+        // TODO: generate and display Google Map Markers
+      }
+    });
+  }
+
+  private googleMapInitializer(): void {
+    if (this.gmSettings.isCurrentLocation) {
+      navigator.geolocation.getCurrentPosition((currentPosition: GeolocationPosition) => {
+        this.gmCenter = {
+          lat: currentPosition.coords.latitude,
+          lng: currentPosition.coords.longitude
+        }
+      });
+    }
+  }
+}
+
+export type FilterRequestData = {
+  includedTypes: string[];
+  latitude: number;
+  longitude: number;
+  radius: number;
 }

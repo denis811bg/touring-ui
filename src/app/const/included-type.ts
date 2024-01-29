@@ -1,0 +1,15 @@
+export enum IncludedType {
+  ART_GALLERY = "art_gallery",
+  MUSEUM = "museum",
+  PERFORMING_ARTS_THEATER = "performing_arts_theater",
+  CHURCH = "church",
+  HINDU_TEMPLE = "hindu_temple",
+  MOSQUE = "mosque",
+  SYNAGOGUE = "synagogue",
+  CULTURAL_CENTER = "cultural_center",
+  HISTORICAL_LANDMARK = "historical_landmark",
+  NATIONAL_PARK = "national_park",
+  PARK = "park",
+  TOURIST_ATTRACTION = "tourist_attraction",
+  VISITOR_CENTER = "visitor_center",
+}

@@ -1,0 +1,44 @@
+.content {
+  display: block;
+  margin: 48px;
+}
+
+.cards-container {
+  display: flex;
+}
+
+.map-card {
+  width: 50%;
+}
+
+.filter-card {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
+
+.type-card {
+  margin-bottom: 8px;
+}
+
+.type-content {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.type-button {
+  margin: 4px;
+}
+
+.other-filter-card {
+  margin-bottom: 8px;
+}
+
+.other-filters-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.action-button {
+  margin-left: 8px;
+}
