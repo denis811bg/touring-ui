@@ -1,0 +1,2548 @@
+[
+  {
+    "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s",
+    "id": "ChIJoTZGw67GhkcREy4aECdOf6s",
+    "types": [
+      "tourist_attraction",
+      "church",
+      "place_of_worship",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "02 7202 3375",
+    "internationalPhoneNumber": "+39 02 7202 3375",
+    "formattedAddress": "P.za del Duomo, 20122 Milano MI, Italy",
+    "addressComponents": [
+      {
+        "longText": "Piazza del Duomo",
+        "shortText": "P.za del Duomo",
+        "types": [
+          "route"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Milano",
+        "shortText": "Milano",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Milano",
+        "shortText": "Milano",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Città Metropolitana di Milano",
+        "shortText": "MI",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Lombardia",
+        "shortText": "Lombardia",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Italy",
+        "shortText": "IT",
+        "types": [
+          "country",
+          "political"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "20122",
+        "shortText": "20122",
+        "types": [
+          "postal_code"
+        ],
+        "languageCode": "en-US"
+      }
+    ],
+    "plusCode": {
+      "globalCode": "8FQFF57R+JQ",
+      "compoundCode": "F57R+JQ Milan, Metropolitan City of Milan, Italy"
+    },
+    "location": {
+      "latitude": 45.464097599999995,
+      "longitude": 9.1919265
+    },
+    "viewport": {
+      "low": {
+        "latitude": 45.462888619708494,
+        "longitude": 9.188551499999997
+      },
+      "high": {
+        "latitude": 45.46558658029149,
+        "longitude": 9.193607900000002
+      }
+    },
+    "rating": 4.8,
+    "googleMapsUri": "https://maps.google.com/?cid=12357681832208772627",
+    "websiteUri": "https://www.duomomilano.it/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 7:00 PM",
+        "Sunday: 9:00 AM – 7:00 PM"
+      ]
+    },
+    "utcOffsetMinutes": 60,
+    "adrFormatAddress": "<span class=\"street-address\">P.za del Duomo</span>, <span class=\"postal-code\">20122</span> <span class=\"locality\">Milano</span> <span class=\"region\">MI</span>, <span class=\"country-name\">Italy</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 145625,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": {
+      "text": "Duomo di Milano",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "Church",
+      "languageCode": "en-US"
+    },
+    "currentOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 4
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 19,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 4
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 5
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 19,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 5
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 2,
+            "hour": 19,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 31
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 19,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 31
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 1
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 19,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 1
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 2
+            }
+          },
+          "close": {
+            "day": 5,
+            "hour": 19,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 2
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 3
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 19,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 3
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 9:00 AM – 7:00 PM",
+        "Tuesday: 9:00 AM – 7:00 PM",
+        "Wednesday: 9:00 AM – 7:00 PM",
+        "Thursday: 9:00 AM – 7:00 PM",
+        "Friday: 9:00 AM – 7:00 PM",
+        "Saturday: 9:00 AM – 7:00 PM",
+        "Sunday: 9:00 AM – 7:00 PM"
+      ]
+    },
+    "primaryType": "church",
+    "shortFormattedAddress": "Milan Cathedral, P.za del Duomo, Milano",
+    "editorialSummary": {
+      "text": "One of the largest cathedrals in the world, this iconic masterpiece took over 600 years to complete.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/reviews/ChdDSUhNMG9nS0VJQ0FnSURONTR1eTdnRRAB",
+        "relativePublishTimeDescription": "in the last week",
+        "rating": 5,
+        "text": {
+          "text": "Very scenic and picturesque everywhere. I went there three times and the best views were early in the morning when it was just me and someone else.\nPictures look so much better early in the morning when no one is around. As a group, we did a tour. Great views from the rooftop and while inside.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Very scenic and picturesque everywhere. I went there three times and the best views were early in the morning when it was just me and someone else.\nPictures look so much better early in the morning when no one is around. As a group, we did a tour. Great views from the rooftop and while inside.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Luke Han",
+          "uri": "https://www.google.com/maps/contrib/109894664341948919924/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOvDxcseEamUFTjIjGIyBoKLR9tZI3NvyDinkY-BjHP3U=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-01-26T21:32:33Z"
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/reviews/ChdDSUhNMG9nS0VJQ0FnSUNObWJDMHBRRRAB",
+        "relativePublishTimeDescription": "2 weeks ago",
+        "rating": 5,
+        "text": {
+          "text": "We thought we'd seen it all, but the further north we went it just got more jaw dropping. This cathedral is from the Roman Gothic architecture times for anyone that knows what that means. This cathedral's architecture is breathtaking. Left is speechless. Just shows how these genius architects thought hundreds of years ago. The Renaissance era that followed is just as good, but Gothic omg. A must see if in Milan.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "We thought we'd seen it all, but the further north we went it just got more jaw dropping. This cathedral is from the Roman Gothic architecture times for anyone that knows what that means. This cathedral's architecture is breathtaking. Left is speechless. Just shows how these genius architects thought hundreds of years ago. The Renaissance era that followed is just as good, but Gothic omg. A must see if in Milan.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Miguel Castillo",
+          "uri": "https://www.google.com/maps/contrib/113449705178797151787/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRGyqVRxjEyOEm2rODmbJ4mvAKoPsbuAZ4-cSYLAkPUEUM=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-01-15T20:45:54Z"
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxaTlIblBnEAE",
+        "relativePublishTimeDescription": "3 weeks ago",
+        "rating": 5,
+        "text": {
+          "text": "Wow... The cathedral in Milan makes an amazing impression on me. It looks majestic from the outside.  It's a really big piece of history. To go inside and to the roofs of the cathedral, from which is a beautiful view of the city, I recommend to buy a ticket in advance online for about €17, and coming early in the morning because there are not crowds of tourists yet.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Wow... The cathedral in Milan makes an amazing impression on me. It looks majestic from the outside.  It's a really big piece of history. To go inside and to the roofs of the cathedral, from which is a beautiful view of the city, I recommend to buy a ticket in advance online for about €17, and coming early in the morning because there are not crowds of tourists yet.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Michał Kiełczyński",
+          "uri": "https://www.google.com/maps/contrib/101583366761102492127/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5q_rE3i-jiMuLIafehTYMvf4-jBGyc8EnqlZTVT17=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-01-03T18:33:07Z"
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsMU1lM09REAE",
+        "relativePublishTimeDescription": "2 months ago",
+        "rating": 4,
+        "text": {
+          "text": "Visiting Milan Duomo with my family, including two kids, was an overall okay experience, but a few aspects left us with mixed feelings.\nThe cathedral itself is a breathtaking masterpiece, with its intricate architecture and stunning design. Our kids were fascinated by the grandeur of the exterior and the history behind this iconic landmark. However, our enthusiasm was somewhat dampened by the extensive security measures at the entrance. While safety is undoubtedly important, the level of scrutiny felt exaggerated, making the entry process a bit tedious, especially with children in tow.\nOne major downside during our visit was the ongoing renovation work. It impacted the overall ambiance and obstructed some of the views, diminishing the full splendor of this historical site.\nAdditionally, the cost of going up in the tower with the elevator was a bit steep (17 EUR / person if I remember correctly). We opted to skip the tower ascent due to the high cost, which was disappointing considering it's one of the main attractions.\nOn a positive note, the interior of the cathedral was awe-inspiring, and exploring the surrounding square was a delightful experience. The vibrant atmosphere and surrounding shops and cafes added to the charm of the visit.\nIn conclusion, Milan Duomo is undoubtedly a must-visit, but potential visitors should be aware of the renovation work and be prepared for the associated challenges. The security measures could be more streamlined, and the pricing for additional experiences like the tower ascent may need reconsideration, particularly for families with children.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Visiting Milan Duomo with my family, including two kids, was an overall okay experience, but a few aspects left us with mixed feelings.\nThe cathedral itself is a breathtaking masterpiece, with its intricate architecture and stunning design. Our kids were fascinated by the grandeur of the exterior and the history behind this iconic landmark. However, our enthusiasm was somewhat dampened by the extensive security measures at the entrance. While safety is undoubtedly important, the level of scrutiny felt exaggerated, making the entry process a bit tedious, especially with children in tow.\nOne major downside during our visit was the ongoing renovation work. It impacted the overall ambiance and obstructed some of the views, diminishing the full splendor of this historical site.\nAdditionally, the cost of going up in the tower with the elevator was a bit steep (17 EUR / person if I remember correctly). We opted to skip the tower ascent due to the high cost, which was disappointing considering it's one of the main attractions.\nOn a positive note, the interior of the cathedral was awe-inspiring, and exploring the surrounding square was a delightful experience. The vibrant atmosphere and surrounding shops and cafes added to the charm of the visit.\nIn conclusion, Milan Duomo is undoubtedly a must-visit, but potential visitors should be aware of the renovation work and be prepared for the associated challenges. The security measures could be more streamlined, and the pricing for additional experiences like the tower ascent may need reconsideration, particularly for families with children.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Laszlo Elekes",
+          "uri": "https://www.google.com/maps/contrib/118143397368661280745/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhGZJk2gp1KGy8QWtF3--G978xBewGSBQimA3Hs33K=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-11-14T10:30:07Z"
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/reviews/ChdDSUhNMG9nS0VJQ0FnSUNOM05tVGlBRRAB",
+        "relativePublishTimeDescription": "2 weeks ago",
+        "rating": 4,
+        "text": {
+          "text": "Inside and out, beautiful! Well worth the visit! Blessed that we had a sunny day when we went up to the rooftop! Undergoing some work so quite a bit of scaffolding and builders making some noise but otherwise a great experience - even in early January!",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Inside and out, beautiful! Well worth the visit! Blessed that we had a sunny day when we went up to the rooftop! Undergoing some work so quite a bit of scaffolding and builders making some noise but otherwise a great experience - even in early January!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Rhy Ward",
+          "uri": "https://www.google.com/maps/contrib/116735134487978114975/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVbRq3D4J33InBzK2pDz7D4Vy31EX2MKhlUv-N5fWTZ47I=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-01-12T21:05:45Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/photos/AWU5eFiu-gHUtwhH8awVT-Fd5RmmxFKV8CfEG1eTUCmx1i5SnpkSvzGMYcaMTdum41ik5cs9dfNA46S8bX6NBesYUM-dykai88jLy5kPpnJRSXWkLOfWhSQklyc72t3ns77TzF84mgOr032Ilcbz3d10-BxXo11DXogtZCbi",
+        "widthPx": 1080,
+        "heightPx": 720,
+        "authorAttributions": [
+          {
+            "displayName": "Sathya Francesco Tezzoni",
+            "uri": "//maps.google.com/maps/contrib/104332427497005427191",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXaaXzvmgimHV4ARNSXyoXT3yde-Qy7pv2VnPWG9IxTjQ=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/photos/AWU5eFiYrZovIVF76GGB0f-FhkaS7WNHMXouD52KfAg-JobQ-xbVf2Hq42WAAtlfh8T6W_3SC4FDGyFx_XvarK3puZ6sa2p-8RqPR5x7aqIYiWprMqaDUR-TTcz7flxUzuzMt8eG0vudTH9yxWBU_bvKxzJtlApM1-dH3AYk",
+        "widthPx": 3024,
+        "heightPx": 4032,
+        "authorAttributions": [
+          {
+            "displayName": "Antoni Mora",
+            "uri": "//maps.google.com/maps/contrib/102998731782996099874",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUJJfwqB6XL6f4rjHjt-yf15_jNriuT9hD4JV9LEDbdpqha=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/photos/AWU5eFim2-D7nL-oRuU7oPlxgykZx7OWyXam-w7Ydu2cEQeBxrCZFNP3lMXM1MYOhFeJ1bnjx_5Mw2AVO7rdA7Sx1Ax-zjHUWOKvbsKi54D9p_ywprWMuXHHiTNZJyf35x0HUaUOmB3PFYo0LwejT2mpgaUIHTpJyAQSXalS",
+        "widthPx": 6960,
+        "heightPx": 4640,
+        "authorAttributions": [
+          {
+            "displayName": "Roberto Simonato",
+            "uri": "//maps.google.com/maps/contrib/115619035413045165947",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWzCQQ72JVBRpI_p78DW0GSzRDLrLK3s7mFFTRB3Iy0ogA=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/photos/AWU5eFiFFD-AGCSrRpta9Xsd3b50bToff_WEQfx1eNuLsmz_ZJ4QvOcLsG2ttKe8CTMRsQ2qorMhWGEj2__eePTRSic2DP_-g1JDfEEjb2GI0OGuJIcnS9S8kAXYTDrcg-19VYhfEn5hpt3Sk7RUA5QjARkW88n4IxZmIbwF",
+        "widthPx": 3024,
+        "heightPx": 4032,
+        "authorAttributions": [
+          {
+            "displayName": "Radim Nuska",
+            "uri": "//maps.google.com/maps/contrib/102445567895823357911",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXctdrzDCk9d5CrH-KC2vBjBFHLxg4BwiI7jHxMpc1xhGbf=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/photos/AWU5eFhqx4Dc4WV1lbcybMyCSxU_NIvnhn9zVQO62PwkaOFBXQaMrr68xVkLnzJ1LXeInoTPALx9Qmy40vxprgHT_IRTwbg1WSVDV92x3ASX69347xC0pohDmTBanj2IbTaueAnD8VDOlKN_lSBhoxf-AUsCbLT4QHeRuO_Z",
+        "widthPx": 2992,
+        "heightPx": 2992,
+        "authorAttributions": [
+          {
+            "displayName": "Oksana Kalmykova",
+            "uri": "//maps.google.com/maps/contrib/107980036031860702133",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWD4hLCbvJo3hKePRxFpNbLaCUCAikIblAuw3W20gbKYcI=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/photos/AWU5eFjfgKzKu-33b0tFm1v56YtvpG1nb5ttbiu30rETsuBMno-uKO7zjGhaOo9r_yBNouDwkKziW8xIIADLuY7DeD_N-3od2hlgASa2lT8HTNLdhEHK15ZI5kAO6G2nobmqc-wZF9O2m0rk3Hu3rJEGflROlWRQdgie2NAY",
+        "widthPx": 4000,
+        "heightPx": 2992,
+        "authorAttributions": [
+          {
+            "displayName": "Paul Gipson",
+            "uri": "//maps.google.com/maps/contrib/115001432890620432713",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVzQVPjK8uB9hf9ztfJQJCh6VIf1WnysSrgKRRlpz-CpJ5n=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/photos/AWU5eFh5ceozkhMhIizlm0Ao1r4QaBWxqIyKvXr_M9dPSJQcIi1tF70LvyQERWv2e7te4c6Y2Bbde4sqRUIM_pAVJc0_F8rwZCFpWDOxK8A8eSAWHop29Q8zH-ZA4bdI4GQv8jxiYK1JjKpLCY4oG98LSco7B8Klk0d-zAo5",
+        "widthPx": 6936,
+        "heightPx": 9248,
+        "authorAttributions": [
+          {
+            "displayName": "Ross",
+            "uri": "//maps.google.com/maps/contrib/108735317887486475036",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVlq1oxbfjE_21jDFW3BP8tKHksbN06qEEwsuhQTu82RYw=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/photos/AWU5eFgeLjR2yv4VbLEBm4N_lxTUy_MezT54P3hDovDbZJWThsDSEKmUJJx1KfJkOweu2ote_mG86YcuXBrPZygWkOrFbJFjmtBzcMvys26FO-SkIbhfiuA-OLwmk0jnAkXlpY8gcFP9utl7_icCSliXNBKAVXE1hMgJFLM",
+        "widthPx": 9024,
+        "heightPx": 12032,
+        "authorAttributions": [
+          {
+            "displayName": "Emrecan Geniş",
+            "uri": "//maps.google.com/maps/contrib/107826983224548851157",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVCc64BI-uI9xJ9-JOUYPTSI8hY4OR-628yCPKENGtl_g=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/photos/AWU5eFhREk9l7tjKqwrylh4Mjmx_bxHHK2SE8v_4a9SMyF1VmoPdo_Qmf8QrfyDFrTEs7MwypijKvorpNk6RzFjJu0X0yoIolDdLqieFL6DskxWeMmIRJSwjmjZGxrvS4WncktGR_LWFkC-e_C2ZUIgCf_I5uZtsFNqtRL0R",
+        "widthPx": 5482,
+        "heightPx": 3655,
+        "authorAttributions": [
+          {
+            "displayName": "Claudio Arnese",
+            "uri": "//maps.google.com/maps/contrib/117794670690449463813",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWCdB0C8gFuC2ZhSBWyEmRspxeKSffNK_rD_HXSX9dtAXcG=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJoTZGw67GhkcREy4aECdOf6s/photos/AWU5eFi-3GxoUTZM8ZkPwWHLyBUTWmMXZz2VwKYuDzLZ6Td2zDlQ2xs1Z08bejKW772sNMv-e9LQfLUpcq8GpGb_uGmAnuLEnyvjsRgsl8PeVX5DYOiNjTja5vTLUhxOGSr28Cqchujd9-DjFePyUVF16ubYaTNkJzmQ_FGh",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "Emanuela Cotto",
+            "uri": "//maps.google.com/maps/contrib/111187410324593452943",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLv6-Tf3uxwfSt8GoCvy04AcQOV73tpeYmqs7JDSAYL=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "goodForChildren": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": false,
+      "wheelchairAccessibleEntrance": true
+    }
+  },
+  {
+    "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM",
+    "id": "ChIJE1xhrevHhkcREd5Hzm0MtVM",
+    "types": [
+      "clothing_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "02 2331 3230",
+    "internationalPhoneNumber": "+39 02 2331 3230",
+    "formattedAddress": "Via Torino, 45, 20123 Milano MI, Italy",
+    "addressComponents": [
+      {
+        "longText": "45",
+        "shortText": "45",
+        "types": [
+          "street_number"
+        ],
+        "languageCode": "en-US"
+      },
+      {
+        "longText": "Via Torino",
+        "shortText": "Via Torino",
+        "types": [
+          "route"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Milano",
+        "shortText": "Milano",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Milano",
+        "shortText": "Milano",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Città Metropolitana di Milano",
+        "shortText": "MI",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Lombardia",
+        "shortText": "Lombardia",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Italy",
+        "shortText": "IT",
+        "types": [
+          "country",
+          "political"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "20123",
+        "shortText": "20123",
+        "types": [
+          "postal_code"
+        ],
+        "languageCode": "en-US"
+      }
+    ],
+    "plusCode": {
+      "globalCode": "8FQFF56P+H6",
+      "compoundCode": "F56P+H6 Milan, Metropolitan City of Milan, Italy"
+    },
+    "location": {
+      "latitude": 45.4613957,
+      "longitude": 9.1855437
+    },
+    "viewport": {
+      "low": {
+        "latitude": 45.460085769708506,
+        "longitude": 9.1841300697085
+      },
+      "high": {
+        "latitude": 45.4627837302915,
+        "longitude": 9.186828030291505
+      }
+    },
+    "rating": 4.1,
+    "googleMapsUri": "https://maps.google.com/?cid=6031740941684432401",
+    "websiteUri": "https://www.primark.com/it-it/stores/milano-via-torino/via-torino-45-milano?y_source=1_MzU4Nzc2OTMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ]
+    },
+    "utcOffsetMinutes": 60,
+    "adrFormatAddress": "<span class=\"street-address\">Via Torino, 45</span>, <span class=\"postal-code\">20123</span> <span class=\"locality\">Milano</span> <span class=\"region\">MI</span>, <span class=\"country-name\">Italy</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 7010,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "iconBackgroundColor": "#4B96F3",
+    "displayName": {
+      "text": "Primark",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "Clothing Store",
+      "languageCode": "en-US"
+    },
+    "delivery": false,
+    "currentOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 4
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 4
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 1,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 5
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 5
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 2,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 31
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 31
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 1
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 1
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 2
+            }
+          },
+          "close": {
+            "day": 5,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 2
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 9,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 3
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 22,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 3
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ]
+    },
+    "primaryType": "clothing_store",
+    "shortFormattedAddress": "Via Torino, 45, Milano",
+    "editorialSummary": {
+      "text": "Discount fashion chain offering clothes and accessories for all ages, plus homewares.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsdm9hWVNnEAE",
+        "relativePublishTimeDescription": "in the last week",
+        "rating": 5,
+        "text": {
+          "text": "Amazing place to shop in Milan.\nA lot of choices, the shop has 4 floor.\n\nGood prices and quality. Truly enjoyed shopping here.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Amazing place to shop in Milan.\nA lot of choices, the shop has 4 floor.\n\nGood prices and quality. Truly enjoyed shopping here.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Tiff",
+          "uri": "https://www.google.com/maps/contrib/101445494018058927554/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUY7u8ilNmExx56wx1Lk8C6DMMB91MrZvgG6Mclwqkk3cc=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2024-01-23T08:53:41Z"
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/reviews/ChZDSUhNMG9nS0VJQ0FnSURlcUpIZ0ZnEAE",
+        "relativePublishTimeDescription": "a year ago",
+        "rating": 5,
+        "text": {
+          "text": "I loved this place to shop.\nYou can find many things and at very good prices.\n\nThey have clothes, sports, things for your house and decoration, shoes. Different lines for women, men, kids, house, shoes.\n\nAll stuffs were made of very good quality.  I didn't buy clothes, well I did buy a souvenir sweatshirt and also souvenir things and shoes.\n\nI think it is excellent quality vs prices that are really very very low.\n\nThey have a lot of Disney licensed stuff, so your eyes go to everything and you want everything. Obviously I bought a lot of things.\n\nThey have a good service Beacuse have a lot of shopping desk, and one day I bought a blanket and the next I need a change, they change it without problem.\n\nThe only point that I give them very bad is their super low quality paper bags.  They break at first.  and it really is pure garbage that is useless.  All the streets of the center of Milano are full of their bags because they are useless.\nReally do something because this bags produce a lot of pollution and it's money in the trash and for us doesn’t work.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "I loved this place to shop.\nYou can find many things and at very good prices.\n\nThey have clothes, sports, things for your house and decoration, shoes. Different lines for women, men, kids, house, shoes.\n\nAll stuffs were made of very good quality.  I didn't buy clothes, well I did buy a souvenir sweatshirt and also souvenir things and shoes.\n\nI think it is excellent quality vs prices that are really very very low.\n\nThey have a lot of Disney licensed stuff, so your eyes go to everything and you want everything. Obviously I bought a lot of things.\n\nThey have a good service Beacuse have a lot of shopping desk, and one day I bought a blanket and the next I need a change, they change it without problem.\n\nThe only point that I give them very bad is their super low quality paper bags.  They break at first.  and it really is pure garbage that is useless.  All the streets of the center of Milano are full of their bags because they are useless.\nReally do something because this bags produce a lot of pollution and it's money in the trash and for us doesn’t work.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Ana G. Astorga",
+          "uri": "https://www.google.com/maps/contrib/105732455225256943124/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2W1rx_2MAD1QOUOm94UZ0_ubSENiP0gFelu6Nv9Jh8g=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2022-09-30T19:42:50Z"
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/reviews/ChdDSUhNMG9nS0VJQ0FnSURGeG9mSXVBRRAB",
+        "relativePublishTimeDescription": "2 months ago",
+        "rating": 1,
+        "text": {
+          "text": "Awful, shameful, and disrespectful!\nVery poor quality clothes!\nToo bad experience: When existing without buying anything, one so called security man stopped me and asked to  see inside of my backpack. He even didn't know basic English. Even after seeing inside of backpack, he didn't apologize for wrongfully asking to see inside my backpack.\nNever had such a unpleasant experience when shopping.\nAs far as I seeing, they did something similar to others.\nRespect yourself and don't go to this store with awful quality and shameful policy!",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Awful, shameful, and disrespectful!\nVery poor quality clothes!\nToo bad experience: When existing without buying anything, one so called security man stopped me and asked to  see inside of my backpack. He even didn't know basic English. Even after seeing inside of backpack, he didn't apologize for wrongfully asking to see inside my backpack.\nNever had such a unpleasant experience when shopping.\nAs far as I seeing, they did something similar to others.\nRespect yourself and don't go to this store with awful quality and shameful policy!",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Yavar Yeganeh",
+          "uri": "https://www.google.com/maps/contrib/101350682729481712588/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXcYUoKJ8IuYP_t3-SCt-9_XNhVTVN__xPeOZKV80k8W20=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-11-06T18:07:11Z"
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1bEtMbmdBRRAB",
+        "relativePublishTimeDescription": "3 months ago",
+        "rating": 2,
+        "text": {
+          "text": "Very Rude and discriminating. When I approached 1 female for assistance, she replied rudely \"NO ENGLISH\"!! And looked away. No attempt to assist. Another male staff doesn't know his product replied, \"I don't know, don't ask me\".. These staff need retraining.\n\nTo be fair, some staff were very helpful. Extreme service.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Very Rude and discriminating. When I approached 1 female for assistance, she replied rudely \"NO ENGLISH\"!! And looked away. No attempt to assist. Another male staff doesn't know his product replied, \"I don't know, don't ask me\".. These staff need retraining.\n\nTo be fair, some staff were very helpful. Extreme service.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Edmund “Zeusjuice” Foo",
+          "uri": "https://www.google.com/maps/contrib/118336916688039341700/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDfG-cUEUft4PzFjk64lGkSAamvtVlzNyy4VBRAQx1Dn1W=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2023-10-10T18:47:16Z"
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNscXRDVndnRRAB",
+        "relativePublishTimeDescription": "2 months ago",
+        "rating": 4,
+        "text": {
+          "text": "A decent variety of clothing at cheap prices. But the durability of some of the clothing options is questionable. The store is usually crowded, but there are a lot of checkout counters.\nThe menswear section has a lot of casual wear and almost no formal clothing options. Wish there were more choices in the menswear section.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "A decent variety of clothing at cheap prices. But the durability of some of the clothing options is questionable. The store is usually crowded, but there are a lot of checkout counters.\nThe menswear section has a lot of casual wear and almost no formal clothing options. Wish there were more choices in the menswear section.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Isuru Sampath",
+          "uri": "https://www.google.com/maps/contrib/107711614784802760857/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeBH7lfsjrJar0XQt_wzVWfOB8Rxk2Ry2qubJ8Hjee6g=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-11-15T23:50:57Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/photos/AWU5eFgEAzKmmsSJyvzXeoXVjOxIDPjzG-UfnAugtQZVvFDdxujzRm2UXklt0ZrIZxx2-uMFOV5VDnjZ0Pl2r8AGqcKz-xumvBPup1gxhn8SJVHXdFqpJEvbR5s9UYCrp-yBuPqGB6wwDQpOEZ8kEu8eS6A1JKrn8RV2wANw",
+        "widthPx": 4032,
+        "heightPx": 2268,
+        "authorAttributions": [
+          {
+            "displayName": "Sanjeeva Weerasinghe",
+            "uri": "//maps.google.com/maps/contrib/111346435212339513016",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjURIh_yNanzT0ct4YLpHwmHytDohCtWaQJujIOv6OrV7Q=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/photos/AWU5eFjkwZbUcYhq-T_ZLBWoI8d0uLREfGNCHx-sK7BxP_s2MbeaI5RIVgzyxOK4nU8rpyCI_U1TKY0AkwJkDqVyoaJoS_stadwIsFl_ydOJPRSOsKAPKPdSsUdIr5tdSfNStBlOdMmUdBV7q4LCj_bCWafIRs3p8J1lGN86",
+        "widthPx": 13282,
+        "heightPx": 3760,
+        "authorAttributions": [
+          {
+            "displayName": "Danny Lano",
+            "uri": "//maps.google.com/maps/contrib/114949015377358858074",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWAI57C85ZJ3R3MccfRpO9WnOarKK9QzdJ98OYvqTmmwxTI=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/photos/AWU5eFgbOOHE8YKjMqfllYoo7mw692mlwtlMYU0fUvMT9nKDdJ_sUa57MLyzecVcl12_4J6bTvsk46pbtbFtbpfryTMn9fOiEHoF8zX4aGikHeRqJ-40Fk6UAhdDT1KcuqIYrVeHZ5G8E3GwPjd4SycEg7-og2s1M3GV5znA",
+        "widthPx": 3000,
+        "heightPx": 4000,
+        "authorAttributions": [
+          {
+            "displayName": "Antonio Vergallo",
+            "uri": "//maps.google.com/maps/contrib/112612820807950421361",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW2b9oZSRvI_oN6mw21DG5_LUKglpyU1JFzAjUBXGybXQ=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/photos/AWU5eFjTeeLSa7tSV9_Ce-TFb-B9lXcnBB6ohmioo-bsLCvcYrPEas4ZSbryKRonhzzFH3SMr1jlF8BuDi3uGmnumnOTHC_3-atUH_D7Y5pBTZNi8e2lmdT6tbBK5YDvcHFof0VMdMRNK6L4s6abuRwoDhRGf9-U6eZ9lyAp",
+        "widthPx": 2736,
+        "heightPx": 3648,
+        "authorAttributions": [
+          {
+            "displayName": "Dominique Friche i",
+            "uri": "//maps.google.com/maps/contrib/102546071046170903505",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLC_x8uAJ87Jchszv2nAhbHUGZIZDmxSozXSLcL696f7Q=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/photos/AWU5eFjHCnJqN9s3yWbQ2puyhOXdFyyCOUr4Snd9kFA05Ke8vw1wrQzNrE8mXo91e1-h1wAPEWXrd2DYoe6B21YbDm2XLupLGeVgZGcpJ-YmlOHJCxuGAloqjulzOWsntMtGKQg5-44w4_w_lcdzQA5eor9TE3sTiP1TM2ta",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "Pietro De Marchi",
+            "uri": "//maps.google.com/maps/contrib/108913817293862277170",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX2bozU3HKTCZCX066vo72IQ4DGDjF5wvmu4MeK--v6E_rH=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/photos/AWU5eFjgP_T8rTLW1-ntLCuR4_fmkC_pAc6DA7bjjCYebg1jk5lfFfUzi-UHWEhRsH_IgNYv4IcRLVUagA23SovGwKpIBH-xD-LNcuhZE6asC3Nz8TTnV1KewVo6Uy9bVOjhlH_YQhSvTVEdLXhhrOmZg5odOs2u9x2_UOo",
+        "widthPx": 3096,
+        "heightPx": 4128,
+        "authorAttributions": [
+          {
+            "displayName": "Ehab Gendy",
+            "uri": "//maps.google.com/maps/contrib/112468135105316128940",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjX99n1vBpZk5xsI8_4juljGzTGgyOBLSnemZr5g_OJRGh0=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/photos/AWU5eFinmf1uDsXE7ZimUsQm0HxrDFSa2z_G3e3E8gXiUFaXqEMCRYfZee7ggFZylAkoABb5HKWtJtRrxmv4hjsvfxUBridwI9QW3SWj3gwUlzFl_OALfAJvXz9N2bprI8dlMSCJREo1onpSyPO9LZWHvIYwg5Xq0CRGIk0e",
+        "widthPx": 4000,
+        "heightPx": 3000,
+        "authorAttributions": [
+          {
+            "displayName": "Sara Salonia",
+            "uri": "//maps.google.com/maps/contrib/102356870463493701085",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBWIn-5DphXx5fw7oSEINAdgUumTNLSvfDzZ0Cl2jNB_w=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/photos/AWU5eFiee5LKRgnKYLUyu7gWUtdHu5bofSPOBaHXrvfddGYYvxKkrWmKH8KrmdgKEF8HFCCvYIIpMJ0jKAPUoE-8c4peYSRwJQeIaqPiycO9ONJOcElKtC27O9kt6DmsyCWcQvVZRcXAI7b45SqmOrhXc5HfqzKEK9voU1Xf",
+        "widthPx": 4000,
+        "heightPx": 3000,
+        "authorAttributions": [
+          {
+            "displayName": "Antonio Vergallo",
+            "uri": "//maps.google.com/maps/contrib/112612820807950421361",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW2b9oZSRvI_oN6mw21DG5_LUKglpyU1JFzAjUBXGybXQ=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/photos/AWU5eFjr19y-7yQu81b7LPkrkM0GVYwp-W8ZGSpM--BmInalUTvEDimMo9T3kQP_mkotdObycbGYaTk43bOh3VErC4061Ul_0Cys4Uxo8Dd4CEfKZQOsVshF9liMLXDNexKDoUiKuAEMnJY_IIXGJbAELeZs58mh2ItWTqHF",
+        "widthPx": 3024,
+        "heightPx": 4032,
+        "authorAttributions": [
+          {
+            "displayName": "Mado Kharazishvili",
+            "uri": "//maps.google.com/maps/contrib/118235570558299602768",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVgyDBsX8zdjLwnIyAyMO40UcJjZivPUX4U--C-H0UReGFb=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJE1xhrevHhkcREd5Hzm0MtVM/photos/AWU5eFhU34uyp6EIEl58IgrMrbbU72KHpDJ9kyMjmvJmsXL8zYwQOFd9B1PdbJATdgbqNPWlHq9iRSesHyfbt8A7oqg_b0Hos8MY0_824IIMETGBmZJvq6wqojh4sOvP_4B09DtXXUZouHOckJ24i2K-US1rYEeC4c5v-u1A",
+        "widthPx": 3024,
+        "heightPx": 4032,
+        "authorAttributions": [
+          {
+            "displayName": "леди София",
+            "uri": "//maps.google.com/maps/contrib/113296477430632735085",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUgVWGBbnW2x79HkYnpHFNdmw6hHBhHQivrywVtL3YJDxw=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "paymentOptions": {
+      "acceptsCreditCards": true,
+      "acceptsDebitCards": true,
+      "acceptsCashOnly": false,
+      "acceptsNfc": true
+    },
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true
+    }
+  },
+  {
+    "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ",
+    "id": "ChIJk2EjKKzGhkcR5nM2wA5VoDQ",
+    "types": [
+      "subway_station",
+      "transit_station",
+      "point_of_interest",
+      "establishment"
+    ],
+    "formattedAddress": "P.za del Duomo, 20122 Milano MI, Italy",
+    "addressComponents": [
+      {
+        "longText": "Piazza del Duomo",
+        "shortText": "P.za del Duomo",
+        "types": [
+          "route"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Milano",
+        "shortText": "Milano",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Milano",
+        "shortText": "Milano",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Città Metropolitana di Milano",
+        "shortText": "MI",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Lombardia",
+        "shortText": "Lombardia",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Italy",
+        "shortText": "IT",
+        "types": [
+          "country",
+          "political"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "20122",
+        "shortText": "20122",
+        "types": [
+          "postal_code"
+        ],
+        "languageCode": "en-US"
+      }
+    ],
+    "plusCode": {
+      "globalCode": "8FQFF57Q+QP",
+      "compoundCode": "F57Q+QP Milan, Metropolitan City of Milan, Italy"
+    },
+    "location": {
+      "latitude": 45.4644327,
+      "longitude": 9.1892719
+    },
+    "viewport": {
+      "low": {
+        "latitude": 45.4628627697085,
+        "longitude": 9.187981469708497
+      },
+      "high": {
+        "latitude": 45.46556073029149,
+        "longitude": 9.190679430291501
+      }
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=3792124408088654822",
+    "websiteUri": "http://www.atm.it/",
+    "utcOffsetMinutes": 60,
+    "adrFormatAddress": "<span class=\"street-address\">P.za del Duomo</span>, <span class=\"postal-code\">20122</span> <span class=\"locality\">Milano</span> <span class=\"region\">MI</span>, <span class=\"country-name\">Italy</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 2010,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": {
+      "text": "Duomo",
+      "languageCode": "it"
+    },
+    "primaryTypeDisplayName": {
+      "text": "Subway Station",
+      "languageCode": "en-US"
+    },
+    "primaryType": "subway_station",
+    "shortFormattedAddress": "P.za del Duomo, Milano",
+    "reviews": [
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWOGYtaUpREAE",
+        "relativePublishTimeDescription": "a month ago",
+        "rating": 5,
+        "text": {
+          "text": "What a beautiful chatedral this is. An absolute must see when you are in Milan. Definitely go see the rooftop terrace. Take the stairs if you can. The sensation is magnificient.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "What a beautiful chatedral this is. An absolute must see when you are in Milan. Definitely go see the rooftop terrace. Take the stairs if you can. The sensation is magnificient.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Taco Bakker",
+          "uri": "https://www.google.com/maps/contrib/104319592498546906724/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCrM0OFDdL-mLXMRRK6WEmfCaM3ct1cV7rSMxCkOJii9Nm=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-12-07T21:00:34Z"
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUM1cU5QbnBRRRAB",
+        "relativePublishTimeDescription": "3 months ago",
+        "rating": 5,
+        "text": {
+          "text": "The exterior is palatial despite there being renovations to the rear. There is a large Ralph Lauren banner ad on the church which is kinda find distasteful.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "The exterior is palatial despite there being renovations to the rear. There is a large Ralph Lauren banner ad on the church which is kinda find distasteful.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Aaron Samuel",
+          "uri": "https://www.google.com/maps/contrib/113660289549866899300/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyL4HO3ZsqnW3qE410mJpzNydzR5XmAfFGAR-qF-0XCQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-10-09T22:50:28Z"
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURab0l2OC13RRAB",
+        "relativePublishTimeDescription": "4 months ago",
+        "rating": 5,
+        "text": {
+          "text": "Duomo is huge & brilliant.\nThe station is close to Rinascente & Starbucks Reserve Roastery as well.\nWalking around here and you can enjoy the amazing townscape.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Duomo is huge & brilliant.\nThe station is close to Rinascente & Starbucks Reserve Roastery as well.\nWalking around here and you can enjoy the amazing townscape.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Ryo Fujita",
+          "uri": "https://www.google.com/maps/contrib/101033784787768699363/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1Q9WLJ7LsB2lAFrdoQa9WT8K4i0Tw5aor5_08wZvK5tw=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-09-22T06:40:10Z"
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUROdmRmMTNBRRAB",
+        "relativePublishTimeDescription": "in the last week",
+        "rating": 1,
+        "text": {
+          "text": "Absolutely filthy with urine on the stairs and homeless remains, at least the exit view was nice. The reviews are only good because people thought they were for the cathedral not for the metro station.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Absolutely filthy with urine on the stairs and homeless remains, at least the exit view was nice. The reviews are only good because people thought they were for the cathedral not for the metro station.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Water Monke",
+          "uri": "https://www.google.com/maps/contrib/114438505745898424288/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGXXY6v68e6d4BeL-T2eB_1jgcx6N8siHmM-ZnVgJSIQ=s128-c0x00000000-cc-rp-mo"
+        },
+        "publishTime": "2024-01-25T08:42:42Z"
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtOElyM1R3EAE",
+        "relativePublishTimeDescription": "a year ago",
+        "rating": 5,
+        "text": {
+          "text": "A beautiful gothic cathedral. Amazing attention to detail both inside and out. The trip to the roof was fantastic. The museum and ruins under the cathedral were interesting too. Well worth the combined ticket price. Just scan a QR code whilst queuing to purchase. Very straightforward.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "A beautiful gothic cathedral. Amazing attention to detail both inside and out. The trip to the roof was fantastic. The museum and ruins under the cathedral were interesting too. Well worth the combined ticket price. Just scan a QR code whilst queuing to purchase. Very straightforward.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Michael Ellis",
+          "uri": "https://www.google.com/maps/contrib/108815685415063890985/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAE_bFtkiEevsrFY_vGrWSUHwZu19bTg-c2xZOWRY--Ui6=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2022-10-25T12:49:44Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/photos/AWU5eFi4gQeoM8Af1eg4_ReYUl_ZLu2pqz7707H-NeUeCbYuakp7SYjnC-6Jp_49Ych1XMGwRR4ym_5AWRNHzb7E6fEoUYDXtZTV_sCLAWQmMSXKwNp1lhPBedKBKlHaVnBVca5KNBkq5_qHIDYPGn6DTVlvNEqFRAqwCZuQ",
+        "widthPx": 9000,
+        "heightPx": 12000,
+        "authorAttributions": [
+          {
+            "displayName": "Raffaella Folle",
+            "uri": "//maps.google.com/maps/contrib/112664849962396074722",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW0uOBa7ze_olN8s-mTqW0ninkxmuDAwP6X-juHCAkhUf50=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/photos/AWU5eFhwc5DEDCL4FMp1DES51w_qUERP65idLTErxdcWS7HFqVrKaVUkvy2aQjrbd5N2DjJVqi5sAFhIVvl_0N7y0ODr4AUih59OBV6_psYh9roTnBASZ9wKAbzixHz6QxmmA5y61ohqz10zSnOaVtxQQCYAkqZ05zjvuCU1",
+        "widthPx": 3648,
+        "heightPx": 2736,
+        "authorAttributions": [
+          {
+            "displayName": "Jacob Nørgaard",
+            "uri": "//maps.google.com/maps/contrib/115074409664695228730",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU20PdW3KiHlXG7JKT0LmErovY7OZPO0dKE08TvUHd18P8=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/photos/AWU5eFjdgyJKlqxy6F2N8OvdwhHqqr3dW-yfQIM8UeI0s4HJ4IxPUn2vGwPcGzdcsoDZr0QVbE6imdGzHuJ_1Se5Xe_qmXGDWWhtBb2Mr4kRLRQT1uB_EO3_JGg4-ADcEVs8twwYUFf6pw2pSVduS2ZP3nCeYdb9l78dqh8n",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "Ariel Mirra",
+            "uri": "//maps.google.com/maps/contrib/112483619286795528900",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUFyfAbA66_wDd_Crm1gnpPMIxAML3hRP-B-x56wHoBr6Gt=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/photos/AWU5eFgqzm02hrP-2odaI3mrJ6Smb2v5GAy1aczlP6rk5YvLNQRrhjVRzcVxZ2CVOkFdfLFG8kJeNz-2Zst0497CuRvXbMvFuoMh4Fiw56-17w_KQM9eKGv9r-OvyulCV8SngrDk8pgL2HGNORDUbHa6kV9YOm9WpyFF-1TV",
+        "widthPx": 4608,
+        "heightPx": 3456,
+        "authorAttributions": [
+          {
+            "displayName": "GEF",
+            "uri": "//maps.google.com/maps/contrib/109512728859271680016",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVjBOOjZM2-cA1ijelv6QCnz9SVeqVws0DUihbdO0RM5g=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/photos/AWU5eFgNx01tmGszzJ1aq-3PrlPpEp__MdNQA7vkPfTgvksCvpBFT96FsMkvxr-4wmq7KfmzI2hkZHRTy2622_kHnz9Xvw8m3lfoSH9MFJZB4vs-_BTRGl8EnT6oHXt4Bt0oufukorwIwK9_UdGxE58mrRR2zC1HQ49Uwedw",
+        "widthPx": 2736,
+        "heightPx": 3648,
+        "authorAttributions": [
+          {
+            "displayName": "Ildiko Katonane Krenyacz",
+            "uri": "//maps.google.com/maps/contrib/100966438699701092793",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUU3LUDZogH90ccWuG2TmDADrcJngjbLXhJ6vfWQ84viG32=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/photos/AWU5eFhjzUDJO266Wf8GmnxgnTiSoc13cDgUyqiFMlRw3LCH9mnAtn61dazpcXSApn1r7xWEIzk5ds5dNLa8Ws3JoG3Dej3e90D8BQeHYCgkJVo8eTaOvP_zBzJNRqY2UMJbnxoy4cqPtnL2gz6HWYfaUFw3L_SZCM2vduI9",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "GEF",
+            "uri": "//maps.google.com/maps/contrib/109512728859271680016",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVjBOOjZM2-cA1ijelv6QCnz9SVeqVws0DUihbdO0RM5g=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/photos/AWU5eFj9o0nbphAsH5kJuSaoMHk-4aAvBfU_AyhrnIzxzUqeveWg3VnnJQMl7Tjx4iUzTbpwV8UhmfQMXBQDGODdvmU0mjwmcFJVQOznviRKMqCBlJFR3TFSN5eGT8dR2dxueH4MRBAObvhYzokyCOAa5b4B49QhXsV2wXNb",
+        "widthPx": 9000,
+        "heightPx": 12000,
+        "authorAttributions": [
+          {
+            "displayName": "Raffaella Folle",
+            "uri": "//maps.google.com/maps/contrib/112664849962396074722",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW0uOBa7ze_olN8s-mTqW0ninkxmuDAwP6X-juHCAkhUf50=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/photos/AWU5eFgbrVyTo6R8qbHbCYOLo0zgTMqCLkDo_iTolOUF0ab7CrKBvOwsdMNSKZGtlT722Y84etiueIoIKgLxZsxR0_QhqbyKZrDAAErQLXxWQ2LR8GdsGgG03H4xuDwSo0DyMScInUGhKZLY1PFX5_6whNgyO7g313f8gLOM",
+        "widthPx": 4000,
+        "heightPx": 2250,
+        "authorAttributions": [
+          {
+            "displayName": "Vitalij Bruk",
+            "uri": "//maps.google.com/maps/contrib/107481937531376135521",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU7p1edRnlIDyqgUx1C5IaMBjYBpiWiecqGh_V7b12NbzM=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/photos/AWU5eFjhIoP88mbuCSjNsXt_fLYKwhLBLbMm8OwApAbZelaHu_SPjeR7Zi3zGLlJoad1yzs5gLbF0D-9qjzjR1GyoI1NYo38bcT0u9gDxBt5-GDf7a_UC3gKChg0-PhsgXqs6wYjWuZzDzqFlAHQKWJw1yTdO4dsIM96-cVp",
+        "widthPx": 4000,
+        "heightPx": 6000,
+        "authorAttributions": [
+          {
+            "displayName": "Ariel Mirra",
+            "uri": "//maps.google.com/maps/contrib/112483619286795528900",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUFyfAbA66_wDd_Crm1gnpPMIxAML3hRP-B-x56wHoBr6Gt=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJk2EjKKzGhkcR5nM2wA5VoDQ/photos/AWU5eFhHrsGryLjmUtxacm4NBlUxHWaasKI9X5loaMPD9U6YxMeY75edLeTKnc02kcVICC1jl91cVFrhc_Qk3wiZ9AhknVQkZ7iIaJQI-Dmhi8gSWrJ9ncabATXaqEnSRi2piTYq6RDzEFnDgHGwm6WGSpqnS6rt8tSOzi-0",
+        "widthPx": 3456,
+        "heightPx": 4608,
+        "authorAttributions": [
+          {
+            "displayName": "Anna Apruzzese",
+            "uri": "//maps.google.com/maps/contrib/102410345204985257735",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKYGcsVTEnL47OV77lvW80ECKpash1ONs82JnL9o-Ne=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "restroom": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    }
+  },
+  {
+    "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs",
+    "id": "ChIJH05-WBHuhkcRNjexLI56Nhs",
+    "types": [
+      "art_gallery",
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "02 7226 3230",
+    "internationalPhoneNumber": "+39 02 7226 3230",
+    "formattedAddress": "Via Brera, 28, 20121 Milano MI, Italy",
+    "addressComponents": [
+      {
+        "longText": "28",
+        "shortText": "28",
+        "types": [
+          "street_number"
+        ],
+        "languageCode": "en-US"
+      },
+      {
+        "longText": "Via Brera",
+        "shortText": "Via Brera",
+        "types": [
+          "route"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Milano",
+        "shortText": "Milano",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Milano",
+        "shortText": "Milano",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Città Metropolitana di Milano",
+        "shortText": "MI",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Lombardia",
+        "shortText": "Lombardia",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Italy",
+        "shortText": "IT",
+        "types": [
+          "country",
+          "political"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "20121",
+        "shortText": "20121",
+        "types": [
+          "postal_code"
+        ],
+        "languageCode": "en-US"
+      }
+    ],
+    "plusCode": {
+      "globalCode": "8FQFF5CQ+Q4",
+      "compoundCode": "F5CQ+Q4 Milan, Metropolitan City of Milan, Italy"
+    },
+    "location": {
+      "latitude": 45.471954499999995,
+      "longitude": 9.1878145
+    },
+    "viewport": {
+      "low": {
+        "latitude": 45.47059101970851,
+        "longitude": 9.186440019708497
+      },
+      "high": {
+        "latitude": 45.47328898029151,
+        "longitude": 9.189137980291502
+      }
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=1960889438820185910",
+    "websiteUri": "https://pinacotecabrera.org/",
+    "regularOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 30
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Closed",
+        "Tuesday: 8:30 AM – 6:00 PM",
+        "Wednesday: 8:30 AM – 6:00 PM",
+        "Thursday: 8:30 AM – 6:00 PM",
+        "Friday: 8:30 AM – 6:00 PM",
+        "Saturday: 8:30 AM – 6:00 PM",
+        "Sunday: 8:30 AM – 6:00 PM"
+      ]
+    },
+    "utcOffsetMinutes": 60,
+    "adrFormatAddress": "<span class=\"street-address\">Via Brera, 28</span>, <span class=\"postal-code\">20121</span> <span class=\"locality\">Milano</span> <span class=\"region\">MI</span>, <span class=\"country-name\">Italy</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 27250,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "iconBackgroundColor": "#7B9EB0",
+    "displayName": {
+      "text": "Pinacoteca di Brera",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "Art Gallery",
+      "languageCode": "en-US"
+    },
+    "currentOpeningHours": {
+      "openNow": false,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 8,
+            "minute": 30,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 4
+            }
+          },
+          "close": {
+            "day": 0,
+            "hour": 18,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 4
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 2,
+            "hour": 8,
+            "minute": 30,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 2,
+            "hour": 18,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 30
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 3,
+            "hour": 8,
+            "minute": 30,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 31
+            }
+          },
+          "close": {
+            "day": 3,
+            "hour": 18,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 31
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 4,
+            "hour": 8,
+            "minute": 30,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 1
+            }
+          },
+          "close": {
+            "day": 4,
+            "hour": 18,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 1
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 5,
+            "hour": 8,
+            "minute": 30,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 2
+            }
+          },
+          "close": {
+            "day": 5,
+            "hour": 18,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 2
+            }
+          }
+        },
+        {
+          "open": {
+            "day": 6,
+            "hour": 8,
+            "minute": 30,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 3
+            }
+          },
+          "close": {
+            "day": 6,
+            "hour": 18,
+            "minute": 0,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 3
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Closed",
+        "Tuesday: 8:30 AM – 6:00 PM",
+        "Wednesday: 8:30 AM – 6:00 PM",
+        "Thursday: 8:30 AM – 6:00 PM",
+        "Friday: 8:30 AM – 6:00 PM",
+        "Saturday: 8:30 AM – 6:00 PM",
+        "Sunday: 8:30 AM – 6:00 PM"
+      ]
+    },
+    "primaryType": "art_gallery",
+    "shortFormattedAddress": "Via Brera, 28, Milano",
+    "editorialSummary": {
+      "text": "Graceful palazzo used by Napoleon, with medieval and Renaissance art especially from Northern Italy.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/reviews/ChRDSUhNMG9nS0VJQ0FnSUNsOGVJVhAB",
+        "relativePublishTimeDescription": "2 months ago",
+        "rating": 5,
+        "text": {
+          "text": "One of the best collections of artwork you will ever see, this collection is up there with the Uffizi art gallery. It has an absolutely incredible collection of paintings, statues, sculptures and jewelry. It’s also located in a very unique building with amazing architecture. I would definitely recommend checking out this museum.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "One of the best collections of artwork you will ever see, this collection is up there with the Uffizi art gallery. It has an absolutely incredible collection of paintings, statues, sculptures and jewelry. It’s also located in a very unique building with amazing architecture. I would definitely recommend checking out this museum.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Pong Lenis",
+          "uri": "https://www.google.com/maps/contrib/104538708190297415542/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUH5vKfRLtG-vif05e5-1R1pLc6B1bgTDsSqTGBW786E_4=s128-c0x00000000-cc-rp-mo-ba8"
+        },
+        "publishTime": "2023-11-21T03:44:19Z"
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0b002QU5BEAE",
+        "relativePublishTimeDescription": "in the last week",
+        "rating": 5,
+        "text": {
+          "text": "They have some absolutely amazing paintings here. If you're interested in art, you should not miss this museum.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "They have some absolutely amazing paintings here. If you're interested in art, you should not miss this museum.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Ouissal B.",
+          "uri": "https://www.google.com/maps/contrib/110614697242601379302/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_We1fA8wAVmqrNIWYiZHoPodeoTspKVttO801SDBlHbZ7=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2024-01-27T22:25:28Z"
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/reviews/ChZDSUhNMG9nS0VJQ0FnSURwcnYzNlp3EAE",
+        "relativePublishTimeDescription": "5 months ago",
+        "rating": 5,
+        "text": {
+          "text": "Amazing experience. The public gallery in a beautiful classical building. Great exposition and collection of the painting. The paintings were mostly religious themed. We bought tickets online, and entrance was without waiting.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Amazing experience. The public gallery in a beautiful classical building. Great exposition and collection of the painting. The paintings were mostly religious themed. We bought tickets online, and entrance was without waiting.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Mila Konika",
+          "uri": "https://www.google.com/maps/contrib/113733442383403484676/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVajvrAyeCY-r4sS39YPJlkRWiUcy_TsfcOJuUNvHRjpDQ=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-08-23T13:00:26Z"
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxeUlLTHhRRRAB",
+        "relativePublishTimeDescription": "a month ago",
+        "rating": 5,
+        "text": {
+          "text": "The Pinacoteca di Brera in Milan is a magnificent showcase of European art, particularly strong in Italian paintings. The gallery, housed in a historic 17th-century building, offers a journey through centuries of artistic genius. Notable for its collection of Italian Renaissance art, it features masterpieces by Caravaggio, Raphael, and Tintoretto. Each room is thoughtfully curated, providing context and insight into the evolution of artistic styles. The ambiance is serene, ideal for contemplation. A must-visit for art enthusiasts, it offers a deep, enriching experience that captures the essence of Italy's rich artistic heritage.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "The Pinacoteca di Brera in Milan is a magnificent showcase of European art, particularly strong in Italian paintings. The gallery, housed in a historic 17th-century building, offers a journey through centuries of artistic genius. Notable for its collection of Italian Renaissance art, it features masterpieces by Caravaggio, Raphael, and Tintoretto. Each room is thoughtfully curated, providing context and insight into the evolution of artistic styles. The ambiance is serene, ideal for contemplation. A must-visit for art enthusiasts, it offers a deep, enriching experience that captures the essence of Italy's rich artistic heritage.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "X X",
+          "uri": "https://www.google.com/maps/contrib/103470322508931698369/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIDuXeQOLqKQWMf-EDsUgk9eOsgfu30lV2jg1TPCsF5TQ=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-12-21T13:42:03Z"
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/reviews/ChZDSUhNMG9nS0VJQ0FnSURONzdIUVZnEAE",
+        "relativePublishTimeDescription": "in the last week",
+        "rating": 5,
+        "text": {
+          "text": "IMPORTANT POINTS:\n* It is worth getting an audioguide.\n* Remember to take a picture map of this place before you drive in.\n* If you do not have time focus on paintings with an audio guide number or description with white boards.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "IMPORTANT POINTS:\n* It is worth getting an audioguide.\n* Remember to take a picture map of this place before you drive in.\n* If you do not have time focus on paintings with an audio guide number or description with white boards.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Mateusz Przybylek",
+          "uri": "https://www.google.com/maps/contrib/103322528647648318752/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNkamdm9kpd8DlRVcIW8_StFjmhR3VFSzN9_u16iMhQJ6B=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-01-27T12:22:52Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/photos/AWU5eFjYLY5pqKpsuS8KenM7l9C0lj5W3vRIjRi-JgmCxt9ii6zM4sbSnXXo09863Mzi6Q6y3zoprQXjE9-MhiXDhVSDfJ8TR-YYhpxCrO_i77RbXCED_Bii252mdXZH4gapUzH_7f_lT_1gui1P4Tw03qe2fWt2CbPDp1Y8",
+        "widthPx": 4624,
+        "heightPx": 3468,
+        "authorAttributions": [
+          {
+            "displayName": "Diana Riera Torres",
+            "uri": "//maps.google.com/maps/contrib/114789832994834715891",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXBqDwknPTOQ46AOsESrH_Wwc7RVyMpT2aPZO-3c2oki85j=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/photos/AWU5eFgjW-i_vWUnOAYYsmnTBdX0Jaz_8QAbl-58z3d2GXzbzDsL8JdevomPi0WUG5TBJ_NVL35RIhaFfyyip7F7R8tjCvWwAZ5MQ032oKBtb2bs98qkfUOkYaqXNQW8yEfuglKVLJZ5dOQbXMKuiYtxxB7Jo007rapcwKM-",
+        "widthPx": 3468,
+        "heightPx": 4624,
+        "authorAttributions": [
+          {
+            "displayName": "Atanas Marinkov",
+            "uri": "//maps.google.com/maps/contrib/109061505217080133470",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXMohgDaPazV7IbHr-TNt2-aIsWrVoJgNEO3JJEs5fNhlE-=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/photos/AWU5eFjm0i69sPtaDUgcSgEkXA2s4v1ERj69Weq5oa16Xx46M8FEZRqX8o0kioShSZFy62y7q1424zx8bXOihT3_Y7AOkzbQJHPEPQxi9-sV7ELWc02Rcij3gi78xYkJnj7WP3n3M0jLCh764AjrHtGZG9P9bm6ipfwxj-xd",
+        "widthPx": 1209,
+        "heightPx": 852,
+        "authorAttributions": [
+          {
+            "displayName": "Pavel (ZURRY)",
+            "uri": "//maps.google.com/maps/contrib/107247192010596649690",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLVyKKZKWAQH3plV5C0_AHGgVPTnJl3WP6-HpmXPLrT=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/photos/AWU5eFgSpomUHuhXwPm2KbWcUrTklb59Acnr5FuVl0W3R_Ysky9Gi_J7elBmiVFj906xqxeqk7VY_RqpSjpsFODYzfE86mnjtwOcKL_spm012WUJ-f6VjvXdAsRAY2f3sQbK8LnylOGXkXrXGnRVHFjBOYDsB2yv-N04HAA4",
+        "widthPx": 3514,
+        "heightPx": 4677,
+        "authorAttributions": [
+          {
+            "displayName": "John Christensen",
+            "uri": "//maps.google.com/maps/contrib/117720747161581645038",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLXlWhbSut5txHjYu-NgqiEpR6qargcQK5tPbZy3jPq=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/photos/AWU5eFjKxb8shvDjacgTslNvw4NgUgdnZrXsePXTOiVl6gRaJgD3pAfX08NCrYj4D0ALl3fgLPnZ6aisQbPmnbBCJ1lCv6KhjmZftDDX-vIz0lripitGKXtqXGdNqCjlb20eMlOqyRgGmYDJI_SkYlDAqYsaASVPxtZcQuAU",
+        "widthPx": 9000,
+        "heightPx": 12000,
+        "authorAttributions": [
+          {
+            "displayName": "Stella Canalini",
+            "uri": "//maps.google.com/maps/contrib/106330482636865485107",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWwruwMI68TEvIytwnoWg9Zvj5B_BbCVeVPPDLoHzto7U3s=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/photos/AWU5eFhYjgL2f1Kgtrlo3M5QRvTRJKJTdx0PettKGZtVSX6UAlXAt_doMis4Lq7HXrE05trI6I8EehnxjYjhi5gOknro1DjBY6gfCT_uf06LLSlcP5IBfOlrpGHqLMWOdhQy8lgDsWC4Yt0Eh2UnfwFR_b2V7cikrrCOc_R-",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "Gianfranco Giancaterino",
+            "uri": "//maps.google.com/maps/contrib/100510558377532419104",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUyWwrOTh2NxihK7LtzmAYxuKgKa4r3CtM41RZ1cL-47SW3=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/photos/AWU5eFiQRW6FQIkgAGGgYuKRwUxEHn8EFoi7VKBx52ZWkZKk0NUP0yLz_rwRSxjemH8RbK42sUPgpvFblmfj4KWQhsnitwTk0xTr1EMsFk49yoVAjKJ5kSGRNcF5X5EHhF2p_NOjN2jBqELpNDoqfs07fXP40YIGzBqPao9z",
+        "widthPx": 4835,
+        "heightPx": 6447,
+        "authorAttributions": [
+          {
+            "displayName": "Davide Magliano",
+            "uri": "//maps.google.com/maps/contrib/115136043687781007597",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXg6H-C4wkCFaw1fphHB2BkLjaX0-GzpaMXn2b6ZMl-2pQ=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/photos/AWU5eFird-Rl8Y3gUnKkZLDFQZyCBSN2UHGqwdH3G1_5XjGZc9k7xn0e1U8lz1JcMw36S8CgPPB6Ji22DFGmxT9_alXj1-jeCRXaohQynn2hBDK2OjeZfVO4_O_N2VUwOLMeQrN0Y_AUCFpvRiioLFHJfEQvzHnudICnAAxR",
+        "widthPx": 3472,
+        "heightPx": 4624,
+        "authorAttributions": [
+          {
+            "displayName": "giulia olivieri",
+            "uri": "//maps.google.com/maps/contrib/103327245001270031012",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUNGgpR48NdeAfF1FF_Ta_r17wBvXE87CgJi9kculK1svE=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/photos/AWU5eFioBjyDqB7lPL34IjJ83_xes4VFnocJStCF2GQy5o3dVw8Xb2elhRJdurVWhSIlKPMJyAfNeOE4tt-kZlDALz0IuEZLMMrAvhkFCtMTgDuSIhOELXJkhKnLWdAH28yRd_L7a_3MPk_02PuDjSxNyZEb3URolLBVbxy2",
+        "widthPx": 5792,
+        "heightPx": 4344,
+        "authorAttributions": [
+          {
+            "displayName": "claudio riccardo migliardi",
+            "uri": "//maps.google.com/maps/contrib/101828694650156587424",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI5XhA3CATy6pZxSse4NwtNv5QG9MRbRXCQL7XScTNJ=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJH05-WBHuhkcRNjexLI56Nhs/photos/AWU5eFgjshMMX1fwE6JJabFlMERDOpEpa6BWGH_mvmZm9LjKIyBvc4qB0dX4llFzDe3Sa715Wl1alY-KSkIdy6jNkxoefbLknNCtdxdCedE6J-wRakTLoadDfZ-ahvd3_l0EXW7LgVUXF1qkAtbuHQZqIJANvHY55OCzgnUE",
+        "widthPx": 2736,
+        "heightPx": 2736,
+        "authorAttributions": [
+          {
+            "displayName": "Yaniz Becerril",
+            "uri": "//maps.google.com/maps/contrib/105388070980883788438",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWe5rs-iTyKqSR6R0NDHeeeBYxI-n9WByQZe4vmI6I7HMiJ=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "goodForChildren": true,
+    "restroom": true,
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true,
+      "wheelchairAccessibleRestroom": true
+    }
+  },
+  {
+    "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc",
+    "id": "ChIJw7aG_QY1eUcRFtQJWKmcCyc",
+    "types": [
+      "shopping_mall",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "nationalPhoneNumber": "02 8845 5555",
+    "internationalPhoneNumber": "+39 02 8845 5555",
+    "formattedAddress": "P.za del Duomo, 20123 Milano MI, Italy",
+    "addressComponents": [
+      {
+        "longText": "Piazza del Duomo",
+        "shortText": "P.za del Duomo",
+        "types": [
+          "route"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Milano",
+        "shortText": "Milano",
+        "types": [
+          "locality",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Milano",
+        "shortText": "Milano",
+        "types": [
+          "administrative_area_level_3",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Città Metropolitana di Milano",
+        "shortText": "MI",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Lombardia",
+        "shortText": "Lombardia",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ],
+        "languageCode": "it"
+      },
+      {
+        "longText": "Italy",
+        "shortText": "IT",
+        "types": [
+          "country",
+          "political"
+        ],
+        "languageCode": "en"
+      },
+      {
+        "longText": "20123",
+        "shortText": "20123",
+        "types": [
+          "postal_code"
+        ],
+        "languageCode": "en-US"
+      }
+    ],
+    "plusCode": {
+      "globalCode": "8FQFF58Q+8X",
+      "compoundCode": "F58Q+8X Milan, Metropolitan City of Milan, Italy"
+    },
+    "location": {
+      "latitude": 45.4658434,
+      "longitude": 9.1899401
+    },
+    "viewport": {
+      "low": {
+        "latitude": 45.4643762,
+        "longitude": 9.1875077
+      },
+      "high": {
+        "latitude": 45.4671035,
+        "longitude": 9.1919673
+      }
+    },
+    "rating": 4.7,
+    "googleMapsUri": "https://maps.google.com/?cid=2813514643363451926",
+    "websiteUri": "https://www.yesmilano.it/esplora/luoghi/galleria-vittorio-emanuele-ii",
+    "regularOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "hour": 0,
+            "minute": 0
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "utcOffsetMinutes": 60,
+    "adrFormatAddress": "<span class=\"street-address\">P.za del Duomo</span>, <span class=\"postal-code\">20123</span> <span class=\"locality\">Milano</span> <span class=\"region\">MI</span>, <span class=\"country-name\">Italy</span>",
+    "businessStatus": "OPERATIONAL",
+    "userRatingCount": 94628,
+    "iconMaskBaseUri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "iconBackgroundColor": "#4B96F3",
+    "displayName": {
+      "text": "Galleria Vittorio Emanuele II",
+      "languageCode": "en"
+    },
+    "primaryTypeDisplayName": {
+      "text": "Shopping Mall",
+      "languageCode": "en-US"
+    },
+    "currentOpeningHours": {
+      "openNow": true,
+      "periods": [
+        {
+          "open": {
+            "day": 2,
+            "hour": 0,
+            "minute": 0,
+            "truncated": true,
+            "date": {
+              "year": 2024,
+              "month": 1,
+              "day": 30
+            }
+          },
+          "close": {
+            "day": 1,
+            "hour": 23,
+            "minute": 59,
+            "truncated": true,
+            "date": {
+              "year": 2024,
+              "month": 2,
+              "day": 5
+            }
+          }
+        }
+      ],
+      "weekdayDescriptions": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "primaryType": "shopping_mall",
+    "shortFormattedAddress": "Town House Galleria, P.za del Duomo, Milano",
+    "editorialSummary": {
+      "text": "Mall housed in a glass-covered 19th-century arcade with luxury clothing brands & upscale dining.",
+      "languageCode": "en"
+    },
+    "reviews": [
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsMU5fbFh3EAE",
+        "relativePublishTimeDescription": "2 months ago",
+        "rating": 4,
+        "text": {
+          "text": "Our family recently explored the Galleria Vittorio Emanuele II, and the experience was nothing short of stunning.\nThe architecture of the Galleria is awe-inspiring, with its elegant design and intricate detailing. Walking through the historic passageways, we felt transported to a bygone era of grandeur and sophistication. The kids were fascinated by the intricate mosaics, high glass ceilings, and the general sense of opulence that permeated the surroundings.\nHowever, for a family on a budget, the allure of the luxury shops and designer boutiques was bittersweet. While window shopping was enjoyable, the reality was that most of the items on display were way beyond our financial reach. It's essential for families to be aware that this is more of an experience destination than a budget-friendly shopping spot.\nOn a positive note, the atmosphere was vibrant, and the Galleria is not just about shopping. We took a moment to enjoy a coffee in one of the historic cafes, soaking in the ambiance and people-watching, which added a pleasant touch to our visit.\nIn summary, Galleria Vittorio Emanuele II is a must-visit for its architectural marvel and historical significance. Families should approach it with the understanding that the shopping experience might be more aspirational than practical, but the overall ambiance and cultural richness make it a worthwhile stop, even if you're not planning to splurge on designer goods.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Our family recently explored the Galleria Vittorio Emanuele II, and the experience was nothing short of stunning.\nThe architecture of the Galleria is awe-inspiring, with its elegant design and intricate detailing. Walking through the historic passageways, we felt transported to a bygone era of grandeur and sophistication. The kids were fascinated by the intricate mosaics, high glass ceilings, and the general sense of opulence that permeated the surroundings.\nHowever, for a family on a budget, the allure of the luxury shops and designer boutiques was bittersweet. While window shopping was enjoyable, the reality was that most of the items on display were way beyond our financial reach. It's essential for families to be aware that this is more of an experience destination than a budget-friendly shopping spot.\nOn a positive note, the atmosphere was vibrant, and the Galleria is not just about shopping. We took a moment to enjoy a coffee in one of the historic cafes, soaking in the ambiance and people-watching, which added a pleasant touch to our visit.\nIn summary, Galleria Vittorio Emanuele II is a must-visit for its architectural marvel and historical significance. Families should approach it with the understanding that the shopping experience might be more aspirational than practical, but the overall ambiance and cultural richness make it a worthwhile stop, even if you're not planning to splurge on designer goods.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Laszlo Elekes",
+          "uri": "https://www.google.com/maps/contrib/118143397368661280745/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhGZJk2gp1KGy8QWtF3--G978xBewGSBQimA3Hs33K=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-11-14T10:44:47Z"
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/reviews/ChdDSUhNMG9nS0VJQ0FnSUROcTRPSF9nRRAB",
+        "relativePublishTimeDescription": "in the last week",
+        "rating": 5,
+        "text": {
+          "text": "The Galleria is stunning & filled with high end, beautiful stores. The ceiling will take your breath away, but don't forget to look at the floor... it's equally lovely.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "The Galleria is stunning & filled with high end, beautiful stores. The ceiling will take your breath away, but don't forget to look at the floor... it's equally lovely.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Julie Rowse",
+          "uri": "https://www.google.com/maps/contrib/114166126894284905643/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKpGZzbrkLQw82rnOg4qP0ZioBQ1XADxjXo_Z63GbWVSM=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2024-01-26T05:28:06Z"
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/reviews/ChZDSUhNMG9nS0VJQ0FnSURWXzl1clNBEAE",
+        "relativePublishTimeDescription": "a month ago",
+        "rating": 4,
+        "text": {
+          "text": "The building itself is gorgeous and mesmerizing. We had a good time walking around. It’s also fun to look around the luxury stores but other than that there isn’t much to do or look at. It’s also extremely crowded to the point that it gets difficult to walk.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "The building itself is gorgeous and mesmerizing. We had a good time walking around. It’s also fun to look around the luxury stores but other than that there isn’t much to do or look at. It’s also extremely crowded to the point that it gets difficult to walk.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Batu Eroglu",
+          "uri": "https://www.google.com/maps/contrib/100651432790526907758/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHxuodOYhtJnUn6_e2KVEt8uyLc2QguKGOQ8l6mc3CC3s=s128-c0x00000000-cc-rp-mo-ba4"
+        },
+        "publishTime": "2023-12-19T21:25:50Z"
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsZ0sta2R3EAE",
+        "relativePublishTimeDescription": "2 months ago",
+        "rating": 4,
+        "text": {
+          "text": "Not sure how to describe this place correctly. Shopping center with the most famous brands. Most people visit it just to take a look and make a photo.\nIt makes sense to visit just to close point \"to see the most famous shopping gallery in Europe\". In general, nothing special.\nNice stationary shop with a some unique souvenirs.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "Not sure how to describe this place correctly. Shopping center with the most famous brands. Most people visit it just to take a look and make a photo.\nIt makes sense to visit just to close point \"to see the most famous shopping gallery in Europe\". In general, nothing special.\nNice stationary shop with a some unique souvenirs.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "Mykola Kurus",
+          "uri": "https://www.google.com/maps/contrib/102820387698676350729/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiuWzbn40ydQ6bD2RTO-u9Stru4CudwF2vCry3WxK95yM=s128-c0x00000000-cc-rp-mo-ba5"
+        },
+        "publishTime": "2023-11-12T13:51:48Z"
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/reviews/ChZDSUhNMG9nS0VJQ0FnSURWNnBhUWJBEAE",
+        "relativePublishTimeDescription": "a month ago",
+        "rating": 5,
+        "text": {
+          "text": "I visited a splendid place where the past and present, everyday life and luxury, beautifully intermingle among the places I've been to shop. The coexistence of Prada's past and present was particularly fascinating. Moreover, the sight of Gucci's extravagant Christmas tree in front of the Prada store felt like a challenge to competing brands, adding an intriguing touch. I look forward to enjoying this place more leisurely on my next visit.",
+          "languageCode": "en"
+        },
+        "originalText": {
+          "text": "I visited a splendid place where the past and present, everyday life and luxury, beautifully intermingle among the places I've been to shop. The coexistence of Prada's past and present was particularly fascinating. Moreover, the sight of Gucci's extravagant Christmas tree in front of the Prada store felt like a challenge to competing brands, adding an intriguing touch. I look forward to enjoying this place more leisurely on my next visit.",
+          "languageCode": "en"
+        },
+        "authorAttribution": {
+          "displayName": "John Chansoo Kim",
+          "uri": "https://www.google.com/maps/contrib/113951224119121242359/reviews",
+          "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWflCV3AL0h5hW2bf8kYqpAi_Y1zion-eKayoXfcjTcruQj=s128-c0x00000000-cc-rp-mo-ba6"
+        },
+        "publishTime": "2023-12-21T15:52:25Z"
+      }
+    ],
+    "photos": [
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/photos/AWU5eFgftwy7T8G9WubFgjYjfqA2KFmyCJmid2g933O2nO6jZqZMvUvo5L4Tjot4qtEsSzHj2mANrE2AtRpVLzlaKEcyhQRC9hauvwyrSZmrPVWPnxOFbO3Ne42oEN2tQUnJpsHiNRFvPcJ9cgzsjjA85W4-i5fmFS_zNh36",
+        "widthPx": 4618,
+        "heightPx": 3464,
+        "authorAttributions": [
+          {
+            "displayName": "MIGUEL ORIVE",
+            "uri": "//maps.google.com/maps/contrib/106264909839736760691",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVDZZZb5-y7XV5eQ5qgcrXSKV-Jkj1nowtMuLBZuEnSLbVb=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/photos/AWU5eFgUWWAOg3Ug4wLnVLLXWTFLKHlvKJA_0G4ebRc9alqpLc1xGpQ0_TywcLnx_Yb0etPPEANLlSxjCRG2pLycgxcl1AxK_PTYfUjlbm0IHAN_AIr4owelmB7noOGkTYq9UOXd2y4ckbGfrmT6_Yk4_U_lUR8eU0eXB3IN",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "yohan ko",
+            "uri": "//maps.google.com/maps/contrib/100475663570195956996",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjU5n3JAGVPDDB3U5OLLZm-oMv_Q-1FTzfaFvkeIt5I6JiDV=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/photos/AWU5eFiNAwtwC-YpbhEeU5b-jJV46lQzTGZQrkrm1SLIb6K2ikYukavR5n9Qvp9-4dQc_3SN0JpObRoVvIaXX6Tj3_yjd0NcYPF24zUk8mVUEt9AswDdpILkabqCgcj0KPQOHRQYLDJQO1ruZbe0aLdi15NQH0Aw33umewPO",
+        "widthPx": 4000,
+        "heightPx": 3000,
+        "authorAttributions": [
+          {
+            "displayName": "Enrique Ocejo",
+            "uri": "//maps.google.com/maps/contrib/107729562857132985693",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKmRy_6pguoA2nSaC3tYXjiQg-iXwJJ19vG8lcvnUfX=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/photos/AWU5eFgaShGpNx_q_mcTyfTmBrw7U70ltKs5J_jkL4nbHpPtJuAxjweiM_3Yj52qm9zsanoeRESdusmH762FzaTRDGR7aggABQdAGh4cLw-eqRLg2ix9YTfVq9hxJm6byiyReL7i3JO63JDPPF9FC7d5N7okmMoopm-YjgT3",
+        "widthPx": 16320,
+        "heightPx": 12240,
+        "authorAttributions": [
+          {
+            "displayName": "はせがわたくみ",
+            "uri": "//maps.google.com/maps/contrib/116091105803029763335",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWPvNiAKGHgta5xAvi0N5AHA_7wI4Oj7aBBLKNfbFFqqcm8=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/photos/AWU5eFhiElojLrxOOmTUs7PtFt93_Bt-3lAJGMqz1vBaR-rmYj9Dst1UphxB1Gp3bvYYmqqCcv5GpIYyTeN5W_-ipRQPlBx50Ls9anu1hNqFlYGuAUYtzlcy-Yk528L0PNY-L6GcYijtMrIRlwWRfzO_j4g0zF9MumXqSBDi",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "Luma Zamarreño",
+            "uri": "//maps.google.com/maps/contrib/113831272970522408705",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVX6TXwMR25qEXBJWkjgh6X4NO-m9h-3rWMnrSYh23ugto=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/photos/AWU5eFhuHJh0ac1H2KRNz6P0YupZQGlKX5H9d5twV1cs36CmRgKVgR_rlFa4Ccp0HSPyAvfxq9jBGb4PBhFx3a774yJjP5pNN0COL_l7bKZel1zOd2G-eqXWMQujA3CpFvHyO6dLXh0xbVoWBxI-OC6ZwDcjHNL7MjAM1kG_",
+        "widthPx": 800,
+        "heightPx": 600,
+        "authorAttributions": [
+          {
+            "displayName": "Abhishek mn",
+            "uri": "//maps.google.com/maps/contrib/102411474412439843667",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocITXyclxucc7iIkOzxZZhyli-g8E9guPEXgskPi-2IG=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/photos/AWU5eFjxJyfaLpPh7O9mJ4pVWTflh7gsRCIoi6Rha5cAfVi65cG22zYhoYOCr4bmpcHAhtLcJNPmQ_ZHHq2nEL7rL9jYs5zIZcS8cNEPlyNXh4oCom3KXZCDIFJFkrxaOI7gyzDjl1D2s8HnomvOpSNTmd-K63PEU2hL8h4e",
+        "widthPx": 3000,
+        "heightPx": 4000,
+        "authorAttributions": [
+          {
+            "displayName": "Cristina CT",
+            "uri": "//maps.google.com/maps/contrib/110830781464357168291",
+            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLsZrurOpqegDS8gGwmuRMC2JNMEN3Ls7w5PTOr4s8S=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/photos/AWU5eFi10RqkPYLg0iIs2sj4gNfkEOsj8JV3znXipuEAmVVtmGJ6sGkN_51AfvR5D1U-a0vo3vf91pQttdb029bXN3rB5_Vez3auINiMsXfBAnbtuPQjIHeiU_9e-bVYJixIPijor_Ds659Tg-uN0NEXNTTdxDrWfdN01a4I",
+        "widthPx": 4618,
+        "heightPx": 3464,
+        "authorAttributions": [
+          {
+            "displayName": "Sorin Balan",
+            "uri": "//maps.google.com/maps/contrib/106332412166213064367",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVqvc7dTtksCWkVhyOwpuIZI3SIPXJNOIAyuquRdOUesShw=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/photos/AWU5eFhbyYfeO9eLgjFnXDvBEfX4vL8g72HXDIlFnkuG8afNr5wDKXh7j_gWVJhgqkY3-kvO_JW_seDmRXChVKjP_0Zuw0SnB76wCV6-O9m8ZiqJLND343ApiIHxrVkXVxwZrO2ZDfltGTkOc6n6mL4zIulyXzq5KeahaRgG",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "Gurgen Hakobyan",
+            "uri": "//maps.google.com/maps/contrib/115695026877491865948",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWt7gpJa5G8NqeyXYXmLYuiuRM7LZwmr908V3glDSNA9YnQ=s100-p-k-no-mo"
+          }
+        ]
+      },
+      {
+        "name": "places/ChIJw7aG_QY1eUcRFtQJWKmcCyc/photos/AWU5eFgM1_zEUTURcC9SLK0XESogiFwdJfK8qCMwwgy5j5uf_WNgUndxVeEhpgfRwghrYkejKHzbc-kXbdQkaOby16iTjZ8FLNce_8bRqIk4MjTYb44VsM2HSNvlBnNTOYwrZ7wS75G__ScRAB4Og02RAXu5znp1f0_JlcZp",
+        "widthPx": 4032,
+        "heightPx": 3024,
+        "authorAttributions": [
+          {
+            "displayName": "ruty jaitt",
+            "uri": "//maps.google.com/maps/contrib/104099657889976831295",
+            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXqcJfhkvq5Nhyf31sUlKb105q3ihwzfgrWbNR1gAvbi-A=s100-p-k-no-mo"
+          }
+        ]
+      }
+    ],
+    "accessibilityOptions": {
+      "wheelchairAccessibleParking": true,
+      "wheelchairAccessibleEntrance": true
+    }
+  }
+]

@@ -5,12 +5,41 @@
         <mat-card-title>Places</mat-card-title>
       </mat-card-header>
       <mat-card-content>
-        <google-map
-          height="{{gmSettings.height}}"
-          width="{{gmSettings.width}}"
-          [zoom]="gmSettings.zoom"
-          [center]="gmCenter">
-        </google-map>
+        <ng-container *ngIf="isGoogleMapsApiLoaded">
+          <google-map
+            height="{{gmSettings.height}}"
+            width="{{gmSettings.width}}"
+            [zoom]="gmSettings.zoom"
+            [center]="gmCenter">
+            <map-marker
+              #mapMarker="mapMarker"
+              *ngFor="let marker of markers"
+              [position]="marker.position"
+              [options]="marker.options"
+              (mapClick)="showInfoWindow(mapMarker, marker.details)">
+            </map-marker>
+            <map-info-window>
+              <div *ngIf="markerDetails">
+                <h3 class="details-title">{{markerDetails.title}}</h3>
+
+                <div class="rating-container">
+                  <div class="details-average-rating">{{ markerDetails.rating }}</div>
+                  <div class="details-rating-stars">
+                    <span class="details-rating-star" [class.filled]="markerDetails.rating >= 1"></span>
+                    <span class="details-rating-star" [class.filled]="markerDetails.rating >= 2"></span>
+                    <span class="details-rating-star" [class.filled]="markerDetails.rating >= 3"></span>
+                    <span class="details-rating-star" [class.filled]="markerDetails.rating >= 4"></span>
+                    <span class="details-rating-star" [class.filled]="markerDetails.rating >= 5"></span>
+                  </div>
+                  <div class="details-rating-count">({{ markerDetails.ratingCount }})</div>
+                </div>
+
+                <p class="details-category">{{normalizeCategory(markerDetails.category)}}</p>
+                <p class="details-working-hours">{{normalizeWorkingHours(markerDetails.workingHours)}}</p>
+              </div>
+            </map-info-window>
+          </google-map>
+        </ng-container>
       </mat-card-content>
     </mat-card>
 

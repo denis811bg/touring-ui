@@ -3,8 +3,8 @@ export const environment = {
   internalApiUrl: 'http://localhost:5000',
   googleMap: {
     isCurrentLocation: false,
-    height: "500px",
-    width: "100%",
+    height: '500px',
+    width: '100%',
     zoom: 12,
     minZoom: 1,
     maxZoom: 20,

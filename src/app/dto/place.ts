@@ -56,13 +56,13 @@ interface Viewport {
   high: Location;
 }
 
-interface OpeningHours {
+export interface OpeningHours {
   openNow: boolean;
   periods: Period[];
   weekdayDescriptions: string[];
 }
 
-interface Period {
+export interface Period {
   open: DayTime;
   close?: DayTime;
 }

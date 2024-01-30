@@ -42,3 +42,39 @@
 .action-button {
   margin-left: 8px;
 }
+
+.details-title {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.details-category {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.details-working-hours {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.details-rating-stars {
+  display: inline-block;
+}
+
+.details-rating-star {
+  width: 20px;
+  height: 20px;
+  background-color: gray;
+  display: inline-block;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+
+.details-rating-star.filled {
+  background-color: yellow;
+}
+
+.details-average-rating, .details-rating-count {
+  display: inline-block;
+  margin-bottom: 2px;
+}
