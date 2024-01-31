@@ -1,0 +1,18 @@
+<div *ngIf="markerDetails">
+  <h3 class="details-title">{{markerDetails.title}}</h3>
+
+  <div class="rating-container">
+    <div class="details-average-rating">{{ markerDetails.rating }}</div>
+    <div class="details-rating-stars">
+      <span class="details-rating-star" [class.filled]="markerDetails.rating >= 1"></span>
+      <span class="details-rating-star" [class.filled]="markerDetails.rating >= 2"></span>
+      <span class="details-rating-star" [class.filled]="markerDetails.rating >= 3"></span>
+      <span class="details-rating-star" [class.filled]="markerDetails.rating >= 4"></span>
+      <span class="details-rating-star" [class.filled]="markerDetails.rating >= 5"></span>
+    </div>
+    <div class="details-rating-count">({{ markerDetails.ratingCount }})</div>
+  </div>
+
+  <p class="details-category">{{normalizeCategory(markerDetails.category)}}</p>
+  <p class="details-working-hours">{{normalizeWorkingHours(markerDetails.workingHours)}}</p>
+</div>

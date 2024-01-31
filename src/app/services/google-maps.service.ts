@@ -1,4 +1,5 @@
 import { Injectable } from '@angular/core';
+import { environment } from "../../environments/environment";
 
 @Injectable({providedIn: 'root'})
 export class GoogleMapsService {
@@ -17,7 +18,7 @@ export class GoogleMapsService {
     (<any>window).googleMapsAPIReady = this.googleMapsAPIReady.bind(this);
     const script = document.createElement('script');
     script.type = 'text/javascript';
-    script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyD6iJTWSWJmLT9Pm3PG53DFKUEzXqmerok&v=3&callback=googleMapsAPIReady";
+    script.src = `https://maps.googleapis.com/maps/api/js?key=${environment.googleMap.apiKey}&v=3&callback=googleMapsAPIReady`;
     script.async = true;
     script.defer = true;
     document.head.appendChild(script);

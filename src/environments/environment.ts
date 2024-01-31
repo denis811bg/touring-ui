@@ -3,14 +3,12 @@ export const environment = {
   internalApiUrl: 'http://localhost:5000',
   googleMap: {
     isCurrentLocation: false,
-    height: '500px',
-    width: '100%',
-    zoom: 12,
+    apiKey: 'AIzaSyD6iJTWSWJmLT9Pm3PG53DFKUEzXqmerok',
+    zoom: 15,
     minZoom: 1,
     maxZoom: 20,
     defaultLatitude: 45.46427,
     defaultLongitude: 9.18951,
-    radius: 1000.0,
-    mapTypeId: 'roadmap'
+    radius: 1000.0
   }
 };

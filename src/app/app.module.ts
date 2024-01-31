@@ -13,10 +13,12 @@ import { FormsModule } from "@angular/forms";
 import { MatInputModule } from "@angular/material/input";
 import { HttpClientModule } from "@angular/common/http";
 import { GoogleMap, GoogleMapsModule } from "@angular/google-maps";
+import { MarkerInfoWindowComponent } from './components/marker-info-window/marker-info-window.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    MarkerInfoWindowComponent
   ],
   imports: [
     BrowserModule,
